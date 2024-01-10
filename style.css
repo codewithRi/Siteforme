@@ -23,9 +23,6 @@
 .border{
     border: 2px solid transparent;
 }
-.border:hover{
-
-}
 /**box2 **/
 .add-firts{
     color: #cccccc;
@@ -33,5 +30,5 @@
 }
 .add-second{
     font-size: 1rem;
-    
+
 }
